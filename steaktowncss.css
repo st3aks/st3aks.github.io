@@ -1,3 +1,20 @@
-body {background-color:black;
-	color:red;
+body{
+	font-family:'Times New Roman', Times, serif;
+	background-color:tomato;
+	color:gainsboro;
+	text-align: left;
 }
+header,section {
+	background-color: #222222;
+	margin: auto;
+	margin-left: .5em;
+	margin-right: .5em;
+    margin-bottom: 1em;
+    padding: 1em;
+  }
+header,h2{font-family: cursive, sans-serif;
+text-align: center;}
+#whois {color: red;}
+
+#steak_imageL {float: left;}
+#steak_imageR {float: right;}
